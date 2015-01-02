@@ -1,0 +1,288 @@
+
+
+#supposeAll
+{
+    margin : auto;
+    width : 800px;
+    
+}
+
+
+
+#vue2
+{
+    margin : auto;
+
+    background-color:ffe14c;
+    color: d92c2e;
+    
+}
+
+#vue1
+{
+    margin : auto;
+
+    background-color:ffe14c;
+    color: d92c2e;
+    
+}
+
+
+
+body
+{
+    margin : auto;
+
+    background-color:ffe14c;
+    color: d92c2e;
+    
+}
+
+
+#accueil
+{
+   margin : auto;
+
+    background-color:ffe14c;
+    color: d92c2e; 
+    font-size : large;
+    text-align: left;
+    
+    
+}
+
+#accueil h2
+{
+   
+    text-align: left;
+    
+    
+}
+
+
+
+#all { 
+    margin : auto;
+
+    background-color:ffe14c;
+    color: d92c2e;
+}
+
+#banner { 
+
+    
+    padding: 10px 10px;
+    
+     border-color: ffe14c;
+    background-image:url(../images/flash.jpeg);
+    text-align: center;
+    font-size: 150%;
+     margin : auto;
+
+}
+#banner h2{
+  color: ffe14c;
+    
+}
+
+#bonjour
+{
+    border : solid 3px;
+    border-color: d92c2e;
+    background-color:ffe14c;    
+    clear : both;
+    font-size: 80%;
+    padding: 10px 10px;
+    text-align: right;
+    color: d92c2e;
+      margin : auto;
+
+    
+}
+
+#bonjour a
+{
+   
+    color: d92c2e;
+    text-align: right;
+    
+    
+}
+
+#bonjour a:hover {
+    color : black;
+}
+
+
+#footer {
+    border : solid 3px;
+    border-color: d92c2e;;
+    background-color:graytext;    
+    clear : both;
+    font-size: 80%;
+    padding: 10px 10px;
+    background-image:url(../images/flash-banner.jpeg);
+      margin : auto;
+      color : ffe14c;
+
+}
+.warningMessage {
+	color : red;
+}
+#loginForm {
+
+	border-width : 1px;
+	border-style : solid;
+	width :200px;
+	text-align : left;
+	padding : 10px 10px;
+	margin : 10px 10px;
+	background-color : #FF9980;
+}
+
+#InscriptionForm {
+
+	border-width : 1px;
+	border-style : solid;
+	width : 300px;
+	text-align : left;
+	padding : 10px 10px;
+
+        margin : auto;
+	background-color : #FF9980;
+}
+
+#NouveauLivreForm{
+
+	border-width : 1px;
+	border-style : solid;
+	width : 500px;
+	text-align : left;
+	padding : 10px;
+
+         margin : auto;
+         
+	background-color : #FF9980;
+}
+
+
+
+
+
+
+
+#menu {
+
+	
+
+        display: inline-block;
+   color: purple;
+    border : solid 5px;
+    border-color: d92c2e; 
+    background-color: d92c2e;
+
+    margin : auto;
+
+    padding : 10px;
+    
+    
+    
+    width : 770px;
+   
+    alignment-adjust: center;
+    
+    
+    text-align: center;
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+hr#hrbas {  				
+	display : block;  	
+	clear : both;  		
+	visibility : hidden;
+}
+
+
+
+#menu ul {
+    margin : 0px;
+    padding : 0px;
+    
+    list-style-type:none;
+
+    
+    
+}
+#menu li {
+    list-style: none;
+    margin : 0px;
+    padding : 5px;
+    display: inline;
+    text-align: left;
+    float: left;
+}
+#menu a {
+    padding : 0;
+	margin : 0;
+    /*color : black;*/
+    color : ffe14c;
+    font-size:40 px;
+    text-decoration: none;
+    
+    
+    
+}
+#menu a:hover {
+    color : black;
+}
+#content {
+
+        margin : auto;
+
+}
+table#listeLiv {
+	border-collapse : collapse;
+}
+table#listeLiv td{
+	border-bottom : 1px solid gray;
+	padding : 3px;
+}
+table#listeLiv td a{
+	text-decoration : none;
+	color : blue;
+}
+table#listeLiv td a:hover{
+	text-decoration : underline;
+	color : gray;
+}
+
+table, td {
+	border : solid 1px red;
+	text-align : center;
+	margin-top : 10px;
+	border-collapse:collapse;
+}
+td.etiquette {
+	text-align : right;
+	color : d92c2e;
+	font-size : 90%;
+	font-weight : bold;
+	padding-left : 10px;
+}
+th {
+	color : white;
+	font-family : arial;
+	border : solid 1px red;
+	background : red;
+}
+
+
+
+
